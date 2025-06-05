@@ -23,7 +23,7 @@ st.write(f"number of glass is : {glass}")
 name=st.text_input("enter your name ")
 st.write(f"{name}")
 
-dob=st.date_input("select your date of birth:")
+dob=st.date_input("select your date of birth:.")
 print(dob)
 
 
